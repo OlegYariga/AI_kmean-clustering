@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\doc\desktop\artificientintelligence\lab2\clustering\consoleapplication1\main.cpp(12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\Doc\Desktop\ArtificientIntelligence\lab2\clustering\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

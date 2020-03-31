@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  Source.cpp
+  main.cpp
+c:\users\doc\desktop\artificientintelligence\lab2\clustering\consoleapplication1\clustering.hpp(84): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\doc\desktop\artificientintelligence\lab2\clustering\consoleapplication1\main.cpp(21): note: выполняется компиляция ссылки на экземпляр шаблон функции "void assignPoints<uchar,3>(cv::Mat_<cv::Vec3b> &,std::vector<Cluster<uchar,3>,std::allocator<_Ty>> &)"
+          with
+          [
+              _Ty=Cluster<uchar,3>
+          ]
+c:\users\doc\desktop\artificientintelligence\lab2\clustering\consoleapplication1\clustering.hpp(87): warning C4305: инициализация: усечение из "__int64" в "long"
+c:\users\doc\desktop\artificientintelligence\lab2\clustering\consoleapplication1\clustering.hpp(87): warning C4309: инициализация: усечение константного значения
+c:\users\doc\desktop\artificientintelligence\lab2\clustering\consoleapplication1\clustering.hpp(88): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+Source.obj : error LNK2005: _main уже определен в main.obj
+opencv_world310.lib(opencv_world310.dll) : fatal error LNK1112: тип компьютера модуля "x64" противоречит типу целевого компьютера "x86"

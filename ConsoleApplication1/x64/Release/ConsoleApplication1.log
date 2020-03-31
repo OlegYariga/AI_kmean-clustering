@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Процесс не может получить доступ к файлу "c:\users\doc\desktop\artificientintelligence\lab2\clustering\consoleapplication1\x64\release\consoleapplication2.ipdb", так как этот файл используется другим процессом.
+  stdafx.cpp
+  ForSt.c
+ForSt.c(1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  ForSt.c(1): note: аргументы командной строки:  см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+  main.cpp
+c:\users\doc\desktop\artificientintelligence\lab2\clustering\consoleapplication1\ForSt.c(1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  c:\users\doc\desktop\artificientintelligence\lab2\clustering\consoleapplication1\ForSt.c(1): note: аргументы командной строки:  см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+main.cpp(52): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+main.cpp(61): error C2664: "cv::Mat_<cv::Vec3b>::Mat_(const cv::Mat_<cv::Vec3b> &)": невозможно преобразовать аргумент 1 из "bmp" в "cv::Size"
+  main.cpp(61): note: Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+  Source.cpp
